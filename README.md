@@ -1,6 +1,6 @@
 # Grapevine 3D Scanner
 
-This is the repository that contains source code for the [Landing Page Website](https://nerfies.github.io).
+This is the repository that contains source code for the [Landing Page Website](https://uc-vision.github.io/grapevine-3d-scanner-landing-page/).
 
 If you find this work useful please cite:
 ```
